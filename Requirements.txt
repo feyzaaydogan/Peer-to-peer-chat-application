@@ -1,0 +1,28 @@
+Works in Windows
+
+---Listener---
+import socket
+import sys
+import json
+from datetime import time
+import os
+-------------
+---Announcer---
+from socket import *
+import sys
+import time
+import json
+-------------
+---TcpClient---
+import socket
+import sys
+import time
+import json
+import string
+import datetime
+import os
+-------------
+---TcpServer---
+from socket import *
+import os
+-------------
